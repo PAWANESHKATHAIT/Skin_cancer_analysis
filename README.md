@@ -1,7 +1,7 @@
-Overview
+Overview :
 This project focuses on analyzing a skin cancer dataset to uncover insights and patterns that could aid in understanding the disease better. Using various Python libraries like Pandas, Seaborn, Matplotlib, and Scikit-Learn, the data underwent thorough cleaning, preprocessing, and analysis. The final results were visualized through interactive dashboards created in Power BI.
 
-Project Structure
+Project Structure :
 Data Cleaning and Preprocessing:
 Loaded and cleaned the dataset using Pandas.
 Handled missing values using Scikit-Learn's SimpleImputer.
